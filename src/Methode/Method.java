@@ -4,7 +4,7 @@ public class Method {
     //Method 3
     // non void , tanda parameter
     public static int[] inputAngka(){
-        int [] number = new int[]{1,2,3,4,5};
+        int [] number = new int[]{1,2,3,4,5,6,7};
         return number;
     }
     public static String _Message(){
